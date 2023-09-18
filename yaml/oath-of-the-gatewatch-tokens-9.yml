@@ -1,0 +1,142 @@
+---
+object: card
+id: bc6f27f7-0248-4c04-8022-41073966e4d8
+oracle_id: f082b222-faf3-4616-b246-e3ef5e0dd121
+multiverse_ids: []
+tcgplayer_id: 111207
+name: Elemental
+lang: en
+released_at: '2016-01-22'
+uri: https://api.scryfall.com/cards/bc6f27f7-0248-4c04-8022-41073966e4d8
+scryfall_uri: https://scryfall.com/card/togw/9/elemental?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg?1561929909
+  normal: https://cards.scryfall.io/normal/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg?1561929909
+  large: https://cards.scryfall.io/large/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg?1561929909
+  png: https://cards.scryfall.io/png/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.png?1561929909
+  art_crop: https://cards.scryfall.io/art_crop/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg?1561929909
+  border_crop: https://cards.scryfall.io/border_crop/front/b/c/bc6f27f7-0248-4c04-8022-41073966e4d8.jpg?1561929909
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Elemental
+oracle_text: ''
+power: '3'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: 49fdd0d3-7140-4c12-a41c-37eedd986d9e
+  component: combo_piece
+  name: Chandra, Flamecaller
+  type_line: Legendary Planeswalker — Chandra
+  uri: https://api.scryfall.com/cards/49fdd0d3-7140-4c12-a41c-37eedd986d9e
+- object: related_card
+  id: cd36b274-5b76-44ec-8d62-069b08debe89
+  component: combo_piece
+  name: Rakka Mar
+  type_line: Legendary Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/cd36b274-5b76-44ec-8d62-069b08debe89
+- object: related_card
+  id: 2391265f-ef0c-463f-9371-5a0b71dbbb49
+  component: combo_piece
+  name: Feral Lightning
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/2391265f-ef0c-463f-9371-5a0b71dbbb49
+- object: related_card
+  id: a800f326-3416-4917-a1cf-0f90255777d3
+  component: combo_piece
+  name: Lightning Coils
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/a800f326-3416-4917-a1cf-0f90255777d3
+- object: related_card
+  id: bc6f27f7-0248-4c04-8022-41073966e4d8
+  component: token
+  name: Elemental
+  type_line: Token Creature — Elemental
+  uri: https://api.scryfall.com/cards/bc6f27f7-0248-4c04-8022-41073966e4d8
+- object: related_card
+  id: 5d48ee48-aaeb-4907-b9dc-32f22e95ae4c
+  component: combo_piece
+  name: Research // Development
+  type_line: Instant // Instant
+  uri: https://api.scryfall.com/cards/5d48ee48-aaeb-4907-b9dc-32f22e95ae4c
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: '0898d3dd-a7dd-4d65-bddc-3a0e32a1dfd0'
+set: togw
+set_name: Oath of the Gatewatch Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/0898d3dd-a7dd-4d65-bddc-3a0e32a1dfd0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atogw&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/togw?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bc6f27f7-0248-4c04-8022-41073966e4d8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af082b222-faf3-4616-b246-e3ef5e0dd121&unique=prints
+collector_number: '9'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: 4a2d0784-4988-4283-9aa4-7a597478f4e0
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.18'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/111207?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
